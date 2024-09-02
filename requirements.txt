@@ -1,0 +1,12 @@
+speech_recognition
+tkinter
+hugchat
+gtts
+langdetect
+pygame
+os
+threading
+queue
+bing_image_downloader
+PIL
+fitz
